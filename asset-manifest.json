@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacttodothapa/static/css/main.63b6dbc1.css",
+    "main.js": "/reacttodothapa/static/js/main.fe3c873e.js",
+    "static/js/787.cbb9892e.chunk.js": "/reacttodothapa/static/js/787.cbb9892e.chunk.js",
+    "index.html": "/reacttodothapa/index.html",
+    "main.63b6dbc1.css.map": "/reacttodothapa/static/css/main.63b6dbc1.css.map",
+    "main.fe3c873e.js.map": "/reacttodothapa/static/js/main.fe3c873e.js.map",
+    "787.cbb9892e.chunk.js.map": "/reacttodothapa/static/js/787.cbb9892e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63b6dbc1.css",
+    "static/js/main.fe3c873e.js"
+  ]
+}
